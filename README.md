@@ -4,7 +4,8 @@
 - ReactJs with Hooks!
 - React Bootstrap
 
-See on [Code Pen](https://codepen.io/sesirimarco/pen/zYrQyrR)
+See on [Code Pen](https://codepen.io/sesirimarco/pen/zYrQyrR){:target="_blank"}
+
 In the project directory, you can run:
 
 ### `npm start`
